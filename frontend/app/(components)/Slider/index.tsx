@@ -3,7 +3,7 @@ import CurvedImageCarousel from "../CurvedImageCarousel";
 const carouselItems = [
   {
     id: 1,
-    imageUrl: "/public/image1.jpg",
+    imageUrl: "/frontend/app/images/image1.jpg",
     title: "SEO",
     description:
       "Experience the breathtaking views of sunrise over the mountain ranges. Perfect for early risers and photography enthusiasts.",
@@ -11,7 +11,7 @@ const carouselItems = [
   },
   {
     id: 2,
-    imageUrl: "/public/group.jpg",
+    imageUrl: "/frontend/app/images/image1.jpg",
     title: "Forest Pathway",
     description:
       "Walk through ancient forests with towering trees and diverse wildlife. Guided tours available daily.",
@@ -19,7 +19,7 @@ const carouselItems = [
   },
   {
     id: 3,
-    imageUrl: "/public/group.jpg",
+    imageUrl: "/frontend/app/images/image1.jpg",
     title: "Ocean Cliffs",
     description:
       "Dramatic coastal cliffs with stunning ocean views. Popular spot for sunset watching and sea bird observation.",
@@ -27,7 +27,7 @@ const carouselItems = [
   },
   {
     id: 4,
-    imageUrl: "/public/group.jpg",
+    imageUrl: "/frontend/app/images/image1.jpg",
     title: "Alpine Lake",
     description:
       "Crystal clear waters surrounded by snow-capped peaks. Ideal for kayaking and fishing in summer months.",
@@ -35,7 +35,7 @@ const carouselItems = [
   },
   {
     id: 5,
-    imageUrl: "/public/group.jpg",
+    imageUrl: "/frontend/app/images/image1.jpg",
     title: "Alpine Lake",
     description:
       "Crystal clear waters surrounded by snow-capped peaks. Ideal for kayaking and fishing in summer months.",

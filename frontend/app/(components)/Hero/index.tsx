@@ -6,8 +6,8 @@ import simo from "/public/simo.png";
 const Hero = () => {
   return (
     <div className=" grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 xl:overflow-auto gap-10  custom-grid-rows px-20">
-      <div className="row-span-2 col-span-2   flex flex-col justify-between">
-        <h1 className=" font-bold text-5xl">
+      <div className="row-span-2 col-span-2   flex flex-col items-end-safe ">
+        <h1 className=" font-bold text-5xl pr-0">
           {" "}
           WELCOME TO <span className=" text-amber-600 ">SMB DIGITALZONE,</span>
         </h1>
@@ -17,9 +17,9 @@ const Hero = () => {
           <Image src={group} alt="group" />
         </div>
       </div>
-      <div className="row-span-4  " />
-      <div className="row-span-10 mr-16 ">
-        <h1 className=" font-medium text-3xl">
+      <div className="row-span-4   " />
+      <div className="row-span-10 mr-16 -mt-8 ">
+        <h1 className=" font-medium text-3xl justify-end-safe">
           your cosmic command center for digital supremacy in{" "}
           <span className=" font-bold">Dubai, United Arab Emirates!</span>
         </h1>

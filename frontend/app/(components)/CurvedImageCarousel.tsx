@@ -34,9 +34,9 @@ export default function CurvedImageCarousel({
     setActiveIndex((prev) => (prev - 1 + items.length) % items.length);
   };
 
-  const goToSlide = (index: number) => {
-    setActiveIndex(index);
-  };
+  // const goToSlide = (index: number) => {
+  //   setActiveIndex(index);
+  // };
 
   // Auto-rotation with pause on hover
   useEffect(() => {

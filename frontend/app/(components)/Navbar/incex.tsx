@@ -10,14 +10,14 @@ const Navbar = () => {
         <Image src={logo} alt="logo" width={160} height={72} />
       </div>
       <div className="flex gap-8">
-        <p className=" font-semibold text-sm">Home</p>
-        <p className=" font-semibold text-sm">About Us ^</p>
-        <p className=" font-semibold text-sm">Services</p>
-        <p className=" font-semibold text-sm">Our Creation</p>
-        <p className=" font-semibold text-sm">Case Studies</p>
-        <p className=" font-semibold text-sm">Insight Hub</p>
-        <p className=" font-semibold text-sm">Careers</p>
-        <p className=" font-semibold text-sm">visual Hub</p>
+        <p className=" font-bold text-sm">Home</p>
+        <p className=" font-bold text-sm">About Us ^</p>
+        <p className=" font-bold text-sm">Services</p>
+        <p className=" font-bold text-sm">Our Creation</p>
+        <p className=" font-bold text-sm">Case Studies</p>
+        <p className=" font-bold text-sm">Insight Hub</p>
+        <p className=" font-bold text-sm">Careers</p>
+        <p className=" font-bold text-sm">visual Hub</p>
       </div>
 
       {/* Right Side  */}
